@@ -2,8 +2,7 @@
 
 Un jeu de labyrinthe riche en fonctionnalités, développé en Java avec JavaFX, basé sur le pattern MVC.
 
-![Menu principal du jeu](lien_vers_image_menu.png)
-*(Remplacer par une capture d'écran du jeu)*
+![Menu principal du jeu](accueil.png)
 
 ## 📖 Description
 
