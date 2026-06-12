@@ -43,3 +43,46 @@ Ce projet a été conçu avec une volonté forte de respecter les bonnes pratiqu
 **1. Clonez le dépôt :**
 ```bash
 git clone [https://github.com/ylannwattrelos/IUTerrain.git](https://github.com/ylannwattrelos/IUTerrain.git)
+```
+
+**2. Installez les dépendances avec Maven :**
+```bash
+mvn install
+```
+
+**3. Lancez l'application :**
+```bash
+mvn javafx:run
+```
+
+## 🧪 Tests
+Le projet inclut une suite de tests unitaires couvrant la logique métier. Pour les exécuter :
+```bash
+mvn test
+```
+
+## 📂 Structure du projet
+
+```
+src/
+├── main/
+│   ├── java/          # Code source
+│   └── resources/     # Ressources (images, sons, etc.)
+└── test/
+    └── java/          # Tests unitaires
+```
+
+## 👥 Auteurs
+
+- Gaël Dierynck
+- Dawid Banas
+- Ylann Wattrelos
+- Mark Zavadskyi
+
+## 📄 Licence et Documentation additionnelle
+
+Ce projet est sous licence MIT.
+
+[suivi.md](./Rapports-src/suivi.md)  
+[rapport dev efficace](./Rapports-src/Rapport_Dev-Efficace.md)  
+[rappord qualité de dév](./Rapports-src/Rapport_Dev-Qualité.md)
